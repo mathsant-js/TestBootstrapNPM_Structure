@@ -6,5 +6,5 @@
 
 <ol>
   <li>Clone the project in your pc</li>
-  <li>Type the following command in terminal: npm install bootstrap@5.3.3</li>
+  <li>Type the following command in terminal: <i>npm install bootstrap@5.3.3</i></li>
 </ol>
